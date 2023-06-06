@@ -9,9 +9,9 @@ This repo contains the work that was completed throughout the course of our 4th 
 Hopefully you're using Python3. To install the libraries, do _pip3 install -r requirements.txt_. If you get an error regarding opencv, remove the **.68** and try again. Thank you
 
 ## Members of Group 4
-UP941831 - Dan
-UP926975 - Sonny
-UP930568 - Precious
-UP927887 - Kyle
-UP933827 - Charles
+- [UP941831 - Dan](https://github.com/UP941831)
+- [UP926975 - Sonny](https://github.com/SNY-P)
+- [UP930568 - Precious](https://github.com/UP930568)
+- [UP927887 - Kyle](https://github.com/UP927887)
+- [UP933827 - Charles](https://github.com/Quusay)
 
