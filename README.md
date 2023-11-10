@@ -12,6 +12,6 @@ Hopefully, you're using Python3. To install the libraries, do _pip3 install -r r
 - [UP941831 - Dan](https://github.com/UP941831)
 - [UP926975 - Sonny](https://github.com/SNY-P)
 - [UP930568 - Precious](https://github.com/UP930568)
-- [UP927887 - Kyle](https://github.com/UP927887)
-- [UP933827 - Charles](https://github.com/Quusay)
+- [UP927887 - Kyle](https://github.com/kyletiago)
+- [UP933827 - Charles](https://github.com/charlesmjimenez)
 
